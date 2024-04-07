@@ -1,6 +1,6 @@
 ### Hi there ! I am Anubhav Bangari, a Computer Science graduate with a passion for problem-solving and bringing ideas into reality.
 
-### My Portfolio - [Anubhav bangari(https://creative-site-alpha.vercel.app/)]
+### My Portfolio - ([Anubhav bangari https://creative-site-alpha.vercel.app/])
 
 ### My Skills - 
 
