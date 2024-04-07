@@ -1,10 +1,4 @@
-### Hi there ! I am Anubhav Bangari, a Computer Science graduate with a passion for problem-solving and bringing ideas into reality.
-
-### My Portfolio - [Anubhav Bangari](https://creative-site-alpha.vercel.app/)
-
-### My Skills - 
-
-### Python, JavaScript, Java, Django, Django Rest Framework, React, HTML, CSS, Bootstrap, OpenCV, TensorFlow, Keras, Numpy, Pandas, Scikit-Learn, Solidity, MySQL.
+### Hi there ! I am [Anubhav Bangari](https://creative-site-alpha.vercel.app/), a Computer Science graduate with a passion for problem-solving and bringing ideas into reality.
 
 <!--
 **AnubhavBangari3/AnubhavBangari3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
