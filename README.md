@@ -16,7 +16,7 @@
 <img height="50" src="https://github.com/AnubhavBangari3/AnubhavBangari3/assets/68240739/4c46754d-2e4d-428e-99fc-cc3245b4f3c6"/>
 <img height="50" src="https://github.com/AnubhavBangari3/AnubhavBangari3/assets/68240739/1b81cbc1-d652-43b8-956a-2e695a62ffd8"/>
 <img height="50" src="https://github.com/AnubhavBangari3/AnubhavBangari3/assets/68240739/a018cb7f-ed75-4844-868e-adc932e4e936"/>
-<img height="50" src="https://github.com/AnubhavBangari3/AnubhavBangari3//assets/34cd8bb9-757a-44b3-bca2-a4cab75553ac"/>
+
 
 
 
