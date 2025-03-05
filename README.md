@@ -1,4 +1,4 @@
-### Hi there ! I am [Anubhav Bangari](https://creative-site-alpha.vercel.app/), a Computer Science graduate with a passion for problem-solving and bringing ideas into reality.
+### Hi there ! I am [Anubhav Bangari](https://www.anubhavbangari.com/), a Computer Science graduate with a passion for problem-solving and bringing ideas into reality.
 
 ## My Skills
 <img height="50" src="https://github.com/AnubhavBangari3/AnubhavBangari3/assets/68240739/8c1f7ddb-4272-414b-9e12-48a37061ae83"/>
