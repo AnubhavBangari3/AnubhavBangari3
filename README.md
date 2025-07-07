@@ -1,36 +1,44 @@
-### Hi there ! I am [Anubhav Bangari](https://www.anubhavbangari.com/), a Computer Science graduate with a passion for problem-solving and bringing ideas into reality.
+# 👋 Hi there, I'm [Anubhav Bangari](https://www.anubhavbangari.com/)  
 
+🎓 Computer Science graduate | Software Engineer | 💻 Backend & Full Stack Engineer | 🚀 Passionate about Capital Markets, FinTech & GenAI
 
+---
 
+## 👨‍💻 About Me
 
+I'm a Full Stack Developer with **2.8 years of professional experience**, currently working on **TCS BaNCS** – a core Capital Markets platform.  
+I specialize in building **robust backend systems**, crafting **intuitive UIs**, and integrating **financial messaging standards**.
 
+I’ve contributed to optimizing critical modules like **Cash, Pricing, and Settlement**, and worked extensively with:
+- **SWIFT MT (ISO 15022)** – MT540–MT548, MT530, MT596, MT598  
+- **ISO 20022 (SESE)** – sese.030  
+- **Trade lifecycle & post-trade processing**
 
+---
 
+## 🧠 Tech Stack
 
+### 🔹 Languages
+`Python` `JavaScript` `Java` `Solidity`
 
+### 🔹 Frameworks & Libraries
+`Django` `Django Rest Framework` `React` `React Native`  
+`Node.js` `NumPy` `Pandas` `OpenCV` `TensorFlow` `Keras`  
+`Scikit-learn` `Hugging Face` `Three.js`
 
+### 🔹 DevOps & Cloud
+`REST APIs` `AWS` `Vercel` `Git`
 
+### 🔹 Databases & Tools
+`PostgreSQL` `MySQL` `HTML5` `CSS` `Bootstrap`
 
+---
 
+## 🏦 Domain Expertise
 
+- **Capital Markets & Financial Messaging**
+  - SWIFT MT: `MT540–548`, `MT530`, `MT596`, `MT598`
+  - ISO 20022: `SESE – sese.030`
+  - `Trade Lifecycle`, `Settlement Process`
 
-
-
-
-
-
-
-<!--
-**AnubhavBangari3/AnubhavBangari3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
