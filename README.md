@@ -6,12 +6,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack Developer with **2.8 years of professional experience**, currently working on **TCS BaNCS** – a core Capital Markets platform.  
+I'm a Full Stack Developer, currently working on **TCS BaNCS** – a core Capital Markets platform.  
 I specialize in building **robust backend systems**, crafting **intuitive UIs**, and integrating **financial messaging standards**.
 
 I’ve contributed to optimizing critical modules like **Cash, Pricing, and Settlement**, and worked extensively with:
-- **SWIFT MT (ISO 15022)** – MT540–MT548, MT530, MT596, MT598  
-- **ISO 20022 (SESE)** – sese.030  
+- **SWIFT MT (ISO 15022)** – MT540–MT548, MT530, MT596, MT598, MT101, MT103, MT202  
+- **ISO 20022 (SESE)** – sese.030, sese24, pacs008, pacs009  
 - **Trade lifecycle & post-trade processing**
 
 ---
