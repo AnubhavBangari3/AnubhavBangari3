@@ -37,8 +37,8 @@ I’ve contributed to optimizing critical modules like **Cash, Pricing, and Sett
 ## 🏦 Domain Expertise
 
 - **Capital Markets & Financial Messaging**
-  - SWIFT MT: `MT540–548`, `MT530`, `MT596`, `MT598`
-  - ISO 20022: `SESE – sese.030`
-  - `Trade Lifecycle`, `Settlement Process`
+  - SWIFT MT: `MT540–548`, `MT530`, `MT596`, `MT598`, `MT101`, `MT103`, `MT202`
+  - ISO 20022: `SESE – sese.030`, `sese24`, `camt054`, `pacs008`, `pacs009`
+  - `Trade Lifecycle`, `Settlement Process`, `Cash & Pricing`
 
 ---
