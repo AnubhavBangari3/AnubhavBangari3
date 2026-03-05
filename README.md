@@ -24,7 +24,7 @@ I’ve contributed to optimizing critical modules like **Cash, Pricing, and Sett
 ### 🔹 Frameworks & Libraries
 `Django` `Django Rest Framework` `React` `React Native`  
 `Node.js` `NumPy` `Pandas` `OpenCV` `TensorFlow` `Keras`  
-`Scikit-learn` `Hugging Face` `Three.js` `Type Script` NextJs
+`Scikit-learn` `Hugging Face` `Three.js` `Type Script` `NextJs`
 
 ### 🔹 DevOps & Cloud
 `REST APIs` `AWS` `Vercel` `Git`
